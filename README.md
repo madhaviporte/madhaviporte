@@ -1,5 +1,17 @@
 # 💫 About Me:
-I'm currently working on frontend development project using HTML, CSS, JavaScript and React.js<br>I'm looking to collaborate on Beginner-friendly Projects and open-source contributions<br>I'm looking for help with Building real-world Project and improving Problem-solving skills<br>I'm currently learning next.js and basics of DSA<br>Ask me about HTML, CSS, JavaScript, React and GitHub<br>Fun fact I Believe consistency can beat talent<br>
+I'm a Full Stack Developer working with MERN stack (MongoDB, Express, React, Node.js).
+
+I build web applications using HTML, CSS, JavaScript, React on the frontend and Node.js, Express, MongoDB on the backend.
+
+I'm looking to collaborate on beginner-friendly projects and open-source contributions.
+
+I'm working on improving my problem-solving skills and building real-world projects.
+
+Right now, I'm learning Next.js and Data Structures & Algorithms.
+
+Ask me about JavaScript, React, Node.js, MongoDB, and Git.
+
+Fun fact: I believe consistency beats talent.
 
 
 ## 🌐 Socials
