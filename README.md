@@ -37,7 +37,7 @@ Fun fact: I believe consistency beats talent.
 
 ## 🌐 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://responsive-website-chi-two.vercel.app/](https://madhavi-portfolio-seven.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://madhavi-portfolio-seven.vercel.app/])
 
 ---
 
