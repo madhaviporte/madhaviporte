@@ -33,11 +33,10 @@ Fun fact: I believe consistency beats talent.
 ---
 [![](https://visitcount.itsvg.in/api?id=Madhaviporte&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
 ## 🌐 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://madhavi-portfolio-seven.vercel.app/])
+🚀https://madhavi-portfolio-seven.vercel.app/
 
 ---
 
