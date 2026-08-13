@@ -1,13 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack Developer working with MERN stack (MongoDB, Express, React, Node.js).
-
-I build web applications using HTML, CSS, JavaScript, React on the frontend and Node.js, Express, MongoDB on the backend.
-
-I'm looking to collaborate on beginner-friendly projects and open-source contributions.
-
-I'm working on improving my problem-solving skills and building real-world projects.
-
-Right now, I'm learning Next.js and Data Structures & Algorithms.
+I'm a Full Stack Developer working with the MERN stack. I enjoy building web apps, learning new technologies, and turning ideas into working projects. Currently, I'm exploring Next.js and improving my DSA and problem-solving skills. I like working on real-world projects, collaborating with others, and learning along the way. I believe consistency and practice are the best ways to improve as a developer.
 
 Ask me about JavaScript, React, Node.js, MongoDB, and Git.
 
